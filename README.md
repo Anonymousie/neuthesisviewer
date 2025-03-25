@@ -28,3 +28,30 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+NEU Thesis Viewer
+
+A visually appealing thesis repository with a pink and white color scheme that allows different user roles to interact with academic content through an intuitive interface, enhanced by an AI chatbot assistant.
+
+
+
+
+
+Multi-tiered authentication system with four distinct user roles (User, Librarian, Admin, Super Admin) each with specific permissions
+
+
+
+Clean PDF viewer interface with content management options based on user role
+
+
+
+Interactive AI chatbot that guides users through the application and can directly open relevant thesis documents
+
+
+
+Elegant pink and white design theme with responsive layout for various devices
+
+
+
+Secure login system as the entry point to the application
